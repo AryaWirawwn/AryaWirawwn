@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Aryaputra Wirawan
 ==================================================================================================================================================
 
-I have a strong interest in IT, I am constantly learning and developing in IT.
+I have a strong interest in IT. I am eager to continue learning and growing, and I am looking for opportunities to apply my skills in innovative and impactful projects.
 
 * 🌍  I'm based in Samarinda
 * ✉️  You can contact me at [wirawwn9@gmail.com](mailto:wirawwn9@gmail.com)
